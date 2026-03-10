@@ -1,0 +1,10 @@
+openai-whisper==20231117
+transformers==4.41.2
+deepface==0.0.93
+opencv-python==4.10.0.84
+pyaudio==0.2.14
+streamlit==1.37.1
+torch==2.3.1
+ffmpeg-python==0.2.0
+numpy==1.26.4
+pandas==2.2.2
